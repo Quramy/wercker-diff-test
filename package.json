@@ -1,0 +1,7 @@
+{
+  "name": "wercker-diff-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "y-kurami <yosuke.kurami@gmail.com>",
+  "license": "MIT"
+}
